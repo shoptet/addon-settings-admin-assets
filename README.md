@@ -1,0 +1,2 @@
+# Assets for Admin iframes
+This repository contains assets that Partners can use to make their Addon setup page and our admin visually aligned. Current version is containing [JavaScript](https://gist.github.com/VencaV/3f407016bf09654e90010056f0039a73) and [CSS](https://gist.github.com/VencaV/9f82f29c3e20be21d2efbdacc282b81b) + assets listed in `main.css`.
